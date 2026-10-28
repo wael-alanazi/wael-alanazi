@@ -20,7 +20,3 @@ SQL (Oracle Certified) · SQL Server · Power BI (DAX, Power Query, Data Modelin
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/wael-alanazi-3501b2284/)
-
-
-- ⚡ Fun fact: ...
--->
