@@ -6,11 +6,12 @@ I turn operational and customer data into clear answers, using SQL, Power BI, an
 My background in high-volume operations (HungerStation, Solex Plus) gives me the business side of the data.
 
 ### 🛠️ Tools
-SQL (Oracle Certified) · SQL Server · Power BI (DAX, Power Query, Data Modeling) · Excel (Power Query, Advanced Formulas)
+SQL (Oracle Certified) · SQL Server · Power BI (DAX, Power Query, Data Modeling) · Excel (Power Query, Advanced Formulas) · Git & GitHub
 
 ### 📊 Projects
 | Project | Tools | Highlights |
 |---|---|---|
+| [Warehouse & Supply Chain Intelligence](https://github.com/wael-alanazi/warehouse-inventory-powerbi) | Power BI, Power Query, DAX | 74K rows reconciled (0 mismatches) · Stock fell 35.8% · A items stock out in 14.3% of months vs 0.6% for C |
 | [Olist E-Commerce Analytics](https://github.com/wael-alanazi/olist-ecommerce-analytics) | SQL Server, Power BI | 100K orders · 15 KPIs validated (100% match) · Late deliveries cut reviews from 4.29 to 2.27 |
 
 ### 📜 Certifications
